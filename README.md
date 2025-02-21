@@ -63,4 +63,57 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).  
+
+
+
+
+
+
+
+
+
+
+Rapport d'Activitè 
+
+
+# [Rapport d'Activités - Projet Bibliothèque](https://github.com/Youcode-Classe-E-2024-2025/oumaima_aitsaid_gestion_de_bibliotheque.git)
+
+## Progression Quotidienne
+
+### [Jour 1 - 17/02/2025](#jour-1)
+- [x] Premier contact avec le projet
+- [x] Installation de l'environnement Laravel
+- [x] Configuration initiale du projet
+- [x] Installation des dépendances composer
+- [x] Étude du brief précédent
+
+### [Jour 2 - 18/02/2025](#jour-2)
+- [x] Participation à l'événement UM6P
+- [x] Networking et échanges professionnels
+- [x] Réflexion sur l'architecture du projet
+
+### [Jour 3 - 19/02/2025](#jour-3)
+- [x] Documentation Laravel
+- [x] Étude des bonnes pratiques MVC
+- [x] Préparation du plan de développement
+- [x] Concepts clés maîtrisés:
+  - Routes
+  - Contrôleurs
+  - Modèles
+  - Migrations
+  - Vues
+
+### [Jour 4 - 20/02/2025](#jour-4)
+- [x] Implémentation de l'authentification
+- [x] Création des migrations et modèles
+- [x] Développement CRUD
+
+### [Jour 5 - 21/02/2025](#jour-5)
+- [x] Finalisation des fonctionnalités
+- [x] Nettoyage du code
+- [x] Documentation
+- [x] Déploiement
+
+[Voir le projet complet](https://github.com/Youcode-Classe-E-2024-2025/oumaima_aitsaid_gestion_de_bibliotheque.git)
+
